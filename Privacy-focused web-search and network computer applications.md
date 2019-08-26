@@ -1,4 +1,4 @@
-Below is a list of privacy-based, web-search and network, computer application, with a link to their github repositories:
+Below is a list of privacy-focused, web-search and network - computer applications, with a link to their github repositories:
 
 1) Ya Cy: [Github link](https://github.com/yacy)
 2) ISC project: [Gitlab link](https://gitlab.isc.org/isc-projects/)
