@@ -6,7 +6,7 @@ To include open-source privacy enhancement and add-ons, including:
 - Web-browsers 
 - Emails 
 - Web applications (web 2.0 and 3.0)
-- Browser add-ons
+- Browser extensions
 - Mobile applications
 - VPN services
 - Operating Systems
