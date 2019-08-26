@@ -1,4 +1,4 @@
-Below is a list of privacy-based mobile-phone (ANDROID) applications, with a link to their github repositories:
+Below is a list of privacy-focused mobile-phone (ANDROID) applications, with a link to their github repositories:
 
 1) Signal: [Github link](https://github.com/signalapp/Signal-Android)
 2) Wire: [Github link](https://github.com/wireapp/wire-android)
