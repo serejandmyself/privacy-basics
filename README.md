@@ -1,6 +1,6 @@
 # Privacy Basics
 
-Please, feel free to fork and contribute by adding more tools
+Please feel free to fork and contribute by adding more tools or open an [issue](https://github.com/serejandmyself/Privacy-Basics/issues) via GitHub
 
 #fuckDRM 
 
