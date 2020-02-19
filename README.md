@@ -1,9 +1,9 @@
 # Privacy Basics
 
 A list of some privacy basic hints and should-do:
--[Some privacy basics for computers](https://github.com/serejandmyself/Privacy-Basics/blob/master/Some%20privacy%20basics%20for%20computers.md)
--[Some privacy basics for mobile-phones](https://github.com/serejandmyself/Privacy-Basics/blob/master/Some%20privacy%20basics%20for%20mobile-phones.md)
--[Some privacy basics for web-browsing](https://github.com/serejandmyself/Privacy-Basics/blob/master/Some%20privacy%20basics%20for%20web-browsing.md)
+- [Some privacy basics for computers](https://github.com/serejandmyself/Privacy-Basics/blob/master/Some%20privacy%20basics%20for%20computers.md)
+- [Some privacy basics for mobile-phones](https://github.com/serejandmyself/Privacy-Basics/blob/master/Some%20privacy%20basics%20for%20mobile-phones.md)
+- [Some privacy basics for web-browsing](https://github.com/serejandmyself/Privacy-Basics/blob/master/Some%20privacy%20basics%20for%20web-browsing.md)
 
 A list of basic open-source , privacy enhancement, tools and add-ons, including:
 - [Privacy-focused cryptocurrecnies](https://github.com/serejandmyself/Privacy-Basics/blob/master/Privacy-focused%20cryptocurrecnies.md)
