@@ -1,4 +1,4 @@
-Below is a list of privacy-focused operating-systems, with a link to their github repositories:
+Below is a list of, selected, privacy-focused operating-systems, with a link to their github repositories:
 
 1) Tails: [Git link](https://git-tails.immerda.ch/tails/)
 2) Heads: [Github link](https://github.com/headslive/)
