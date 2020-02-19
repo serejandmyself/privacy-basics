@@ -1,4 +1,4 @@
-Below is a list of some basic privacy-focused points for using computers, in no particular order:
+Below is a list of some basic, privacy-focused tips to using your computer, in no particular order:
 
 1) Set-up [strong passwords](https://www.cloudwards.net/how-to-set-up-a-strong-password/) (for login, desired applications)
 2) Keep back-ups (more than 2)
