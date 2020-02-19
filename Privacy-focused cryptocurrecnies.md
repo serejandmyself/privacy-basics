@@ -1,4 +1,4 @@
-Below is a list of privacy-focused cryptocurrencies, with a link to their github repositories:
+Below is a list of, selected, privacy-focused cryptocurrencies, with a link to their github repositories:
 
 1) Grin (GRIN): [Github link](https://github.com/mimblewimble)
 2) Monero (XMR): [Github link](https://github.com/monero-project)
