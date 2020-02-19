@@ -1,8 +1,13 @@
 # Privacy Basics
 
-- [Privacy hints]()
-- [Privacy tools]()
-- [Privacy tool aggregators]()
+Please, feel free to fork and contribute by adding more tools
+
+#fuckDRM 
+
+### Content
+- [Privacy hints](https://github.com/serejandmyself/Privacy-Basics/blob/master/README.md#a-list-of-some-privacy-basic-hints-and-should-does)
+- [Privacy tools](https://github.com/serejandmyself/Privacy-Basics/blob/master/README.md#a-list-of-basic-open-source--privacy-enhancement-tools-and-add-ons-including)
+- [Privacy tool aggregators](https://github.com/serejandmyself/Privacy-Basics/blob/master/README.md#a-list-of-privacy-tools-aggregators)
 
 ### A list of some privacy basic hints and should-does:
 - [Some privacy basics for computers](https://github.com/serejandmyself/Privacy-Basics/blob/master/Some%20privacy%20basics%20for%20computers.md)
