@@ -1,9 +1,20 @@
-Below is a list of privacy-focused mobile-phone (ANDROID) applications, with a link to their github repositories:
+Below is a list of, selected, privacy-focused mobile-phone (Android) applications, with a link to their GitHub repositories:
 
-1) Signal: [Github link](https://github.com/signalapp/Signal-Android)
-2) Wire: [Github link](https://github.com/wireapp/wire-android)
-3) DuckDuckGo browser: [Github link](https://github.com/duckduckgo/Android)
-4) Syncthing: [Github link](https://github.com/syncthing/syncthing-android)
-5) Orbot: [Github link](https://github.com/guardianproject/Orbot)
-6) K9-mail: [Github link](https://github.com/k9mail/k-9)
-7) 1.1.1.1: [Website link](https://1.1.1.1/)
+Communication apps:
+1) K9-mail: [Github link](https://github.com/k9mail/k-9)
+2) Signal: [Github link](https://github.com/signalapp/Signal-Android)
+3) Status: [Github link](https://github.com/status-im/)
+4) Telegram: [Github link](https://github.com/telegramdesktop)
+5) Wire: [Github link](https://github.com/wireapp/wire-android)
+
+Browsing apps:
+1) DuckDuckGo browser: [Github link](https://github.com/duckduckgo/Android)
+2) Orbot: [Github link](https://github.com/guardianproject/Orbot)
+
+Filter apps:
+1) 1.1.1.1: [Website link](https://1.1.1.1/)
+2) DNSfilter: [F-Droid link](https://f-droid.org/en/packages/dnsfilter.android/)
+
+Others:
+1) Syncthing: [Github link](https://github.com/syncthing/syncthing-android)
+
