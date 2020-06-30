@@ -9,3 +9,4 @@ Below is a list of, selected, privacy-focused web 2.0 browser extensions, with a
 7) okTurtles: [Website link](https://okturtles.org/)
 8) Opt Out: [GitHub link](https://github.com/opt-out-eu/opt-out-web-extensions)
 9) WebRTC leak shield: [Website link](https://ip8.com/)
+10) ClearURLs: [Gitlab link](https://gitlab.com/KevinRoebert/ClearUrls)
