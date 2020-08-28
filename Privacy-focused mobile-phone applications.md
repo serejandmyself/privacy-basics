@@ -4,8 +4,7 @@ Communication apps:
 1) K9-mail: [Github link](https://github.com/k9mail/k-9)
 2) Signal: [Github link](https://github.com/signalapp/Signal-Android)
 3) Status: [Github link](https://github.com/status-im/)
-4) Telegram: [Github link](https://github.com/telegramdesktop)
-5) Wire: [Github link](https://github.com/wireapp/wire-android)
+4) Wire: [Github link](https://github.com/wireapp/wire-android)
 
 Browsing apps:
 1) DuckDuckGo browser: [Github link](https://github.com/duckduckgo/Android)
@@ -17,4 +16,5 @@ Filter apps:
 
 Others:
 1) Syncthing: [Github link](https://github.com/syncthing/syncthing-android)
+2) Blokada: [Github link](https://github.com/blokadaorg)
 
